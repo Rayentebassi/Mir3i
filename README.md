@@ -1,5 +1,5 @@
 ![Header](https://i.ibb.co/7GvJQfS/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Rayen aka 'mir3i'</h1>
+<h1 align="center">Hi 👋, I'm Rayen </h1>
 <h3 align="center">A passionate backend developer from Earth</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-505.gif">
 
